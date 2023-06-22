@@ -1,0 +1,5 @@
+
+# EDA ON CUISINE RATING DATASET
+
+This is my EDA work on CUISINE RATING DATASET using Python.
+
